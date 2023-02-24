@@ -25,3 +25,14 @@
 
 ---
 
+## Day 2: Feb 24, 2023
+
+**Progress**: Done Home Hero section for both mobile and desktop
+
+**Thoughts**: Met someother people from twitter today, community is nicer than I thought
+
+**Links**:
+- [blog](https://birnadine.hashnode.dev/day-2-home-hero)
+- [commit](https://github.com/BirnadinErick/birn.cc/commit/03bc51def002429c05f264177ba2a863e24de337)
+
+---
